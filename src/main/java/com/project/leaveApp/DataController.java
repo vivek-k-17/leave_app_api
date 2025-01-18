@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-
+// leave appp
 @RestController
 @CrossOrigin(value ="http://localhost:4200")
 public class DataController {
